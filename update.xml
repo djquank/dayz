@@ -1,2 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<UPDATE version="1.3" file="@Breachingcharge.zip" html="/" />
+<?xml version="1.0"?> 
+<XML> 
+<UPDATE> 
+	<VERSION>1.0.3</VERSION> 
+	<FILE>@Breachingcharge.zip</FILE>
+	<HTML>/</HTML>
+</UPDATE> 
+</XML> 
